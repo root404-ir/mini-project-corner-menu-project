@@ -22,25 +22,25 @@ body {
 
 .menu a {
     background-color: #fff;
-    height: 70px;
-    width: 70px;
-    font-size: 22px;
+    height: 40px;
+    width: 40px;
+    font-size: 18px;
     color: var(--blue_color);
     text-decoration: none;
-    top: 30px;
-    left: 30px;
+    top: 32%;
+    left: 40px;
     transition: 0.5s;
 }
 
 #toggle-btn {
     background-color: #0f1730;
     color: #ffff;
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
     border: none;
-    font-size: 40px;
-    top: 15px;
-    left: 15px;
+    font-size: 30px;
+    top: 30%;
+    left: 25px;
     transition: 0.3s;
     cursor: pointer;
 }
